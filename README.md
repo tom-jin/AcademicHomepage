@@ -1,5 +1,6 @@
-# Solo 
+# Tom Jin, academic homepage
 
-[Solo](http://solo.chibi.io) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+This is the repository behind my [academic homepage](http://www.stats.ox.ac.uk/~sjin/).
 
-### [Demo & Documentation &rarr;](http://solo.chibi.io)
+Forked from [Solo](http://solo.chibi.io), a Jekyll theme.
+
